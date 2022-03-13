@@ -10,3 +10,6 @@
 - eternal
 - iridescent
 - an organic
+- elegant
+- obscure
+- obscure

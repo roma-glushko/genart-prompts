@@ -1,0 +1,24 @@
+# Inspired By
+
+- an album cover ...
+- dark academia aesthetic
+- anime
+- Marvel Comics
+- 1979 Atari video game box art
+- trending on Artstation
+- Behance HD
+- steampunk
+- deviantart
+- stock photo
+- film
+- digital illustration
+- digital art
+- artwork
+- low poly
+- psychedelic
+- Sketchfab
+- storybook illustration
+- tarot card
+- industrial
+- patterns
+- retrofuturistic

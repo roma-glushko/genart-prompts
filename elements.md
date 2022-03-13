@@ -1,0 +1,24 @@
+# Elements
+
+- bokeh
+- matte background
+- tilt shift
+- dye-transfer
+- film noir
+- 8K 3D
+- 8k resolution
+- ambient occlusion
+- detailed painting
+- glowing neon
+- geometric
+- flickering light
+- Flickr
+- DSLR
+- volumetric lighting
+- parallax
+- astral projection
+- alstroemeria
+- synthwave style
+- <PERSON>
+- drone view
+- in spring/winter/autumn/summer
