@@ -106,6 +106,7 @@
 - a hybrid
 - a jeep
 - a landaulet
+- a landscape
 - a limo
 - a limousine
 - a minivan
@@ -731,3 +732,4 @@
 - a teak tree
 - a walnut tree
 - a prostitute
+- a ballerina
