@@ -1,0 +1,33 @@
+# Art Styles
+
+- tempera
+- mural
+- renaissance painting
+- watercolor painting
+- art deco
+- surrealism
+- impressionism
+- expressionism
+- oil on canvas
+- cottagecore
+- abstract
+- acrylic art
+- airbrush art
+- art deco
+- cubist
+- concept art
+- hyperrealism
+- minimalist
+- pixel art
+- woodcut
+- maximalist
+- photo illustration
+- matte painting
+- pop art
+- poster art
+- lowbrow
+- mixed media
+- pencil sketch
+- WPAP
+- glitch art
+- fauvism
