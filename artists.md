@@ -77,3 +77,18 @@
 ## Drawings
 
 - by Leonardo Da Vinci
+
+## Hyperrealism
+
+- by Yasutomo Oka
+- by Ali Cavanaugh
+- by Roberto Ferri
+- by Yigal Ozeri
+
+## Portrait photography
+
+- by David LaChapelle
+- by Alessio Albi
+- by Corbin Gurkin
+- by Brian Ingram
+- by Annie Leibovitz

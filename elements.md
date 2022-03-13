@@ -22,3 +22,4 @@
 - <PERSON>
 - drone view
 - in spring/winter/autumn/summer
+- 4k portrait
