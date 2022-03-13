@@ -7,10 +7,12 @@
 - by Thomas Kinkade
 - by Andreas Rocha
 - by Larry Elmore
+- by Mike Winkelmann or by Beeple
 
 ## Romanticism
 
 - by Ivan Aivazovsky
+- by Henry Fuseli
 
 ## Psychedelic
 
@@ -67,3 +69,7 @@
 ## Pop Art
 
 - by Andy Warhol
+
+## Baroque / Gothic
+
+- by Zdzisław Beksiński
