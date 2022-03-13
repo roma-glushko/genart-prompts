@@ -38,6 +38,7 @@
 ## Surrealism
 
 - by Picasso
+- by Paul Delvaux
 
 ## Realism
 
@@ -58,3 +59,7 @@
 ## Japanese Art
 
 - by Katsushika Hokusai and Gerardo Dottori
+
+## Filmic
+
+- by Zack Snyder
