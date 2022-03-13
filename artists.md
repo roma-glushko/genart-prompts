@@ -49,10 +49,10 @@
 
 - by Simon Stålenhag
 
-# Woodcut
+## Woodcut
 
 - by Felix Vallotton
 
-# Japanese Art
+## Japanese Art
 
 - by Katsushika Hokusai and Gerardo Dottori
