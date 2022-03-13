@@ -70,15 +70,15 @@
 
 ## Hyperrealism
 
-- Yasutomo Oka
-- Ali Cavanaugh
-- Roberto Ferri
-- Yigal Ozeri
+- by Yasutomo Oka
+- by Ali Cavanaugh
+- by Roberto Ferri
+- by Yigal Ozeri
 
 ## Portrait photography
 
-- David LaChapelle
-- Alessio Albi
-- Corbin Gurkin
-- Brian Ingram
-- Annie Leibovitz
+- by David LaChapelle
+- by Alessio Albi
+- by Corbin Gurkin
+- by Brian Ingram
+- by Annie Leibovitz
