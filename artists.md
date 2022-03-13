@@ -5,6 +5,8 @@
 - by Ross Tran
 - by Jim Burns
 - by Thomas Kinkade
+- by Andreas Rocha
+- by Larry Elmore
 
 ## Romanticism
 
