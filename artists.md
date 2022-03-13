@@ -67,3 +67,18 @@
 ## Pop Art
 
 - by Andy Warhol
+
+## Hyperrealism
+
+- Yasutomo Oka
+- Ali Cavanaugh
+- Roberto Ferri
+- Yigal Ozeri
+
+## Portrait photography
+
+- David LaChapelle
+- Alessio Albi
+- Corbin Gurkin
+- Brian Ingram
+- Annie Leibovitz
