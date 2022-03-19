@@ -31,3 +31,5 @@
 - WPAP
 - glitch art
 - fauvism
+- erotic art
+- nude

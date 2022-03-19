@@ -92,3 +92,12 @@
 - by Corbin Gurkin
 - by Brian Ingram
 - by Annie Leibovitz
+
+## Erotic Art
+
+- by Manuel Leonardi
+- by John Kacere
+- by Lisa Yuskavage
+- by Albert Aublet
+- by Peter Goodhall
+- by Boro Ivetic
