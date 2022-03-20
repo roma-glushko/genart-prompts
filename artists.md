@@ -8,6 +8,7 @@
 - by Andreas Rocha
 - by Larry Elmore
 - by Mike Winkelmann or by Beeple
+- by Anastasia Sergienko
 
 ## Romanticism
 
@@ -70,9 +71,11 @@
 
 - by Andy Warhol
 
-## Baroque / Gothic
+## Baroque / Gothic / Renaissance
 
 - by Zdzisław Beksiński
+- by Francois Boucher
+- by Botticelli
 
 ## Drawings
 
@@ -85,7 +88,7 @@
 - by Roberto Ferri
 - by Yigal Ozeri
 
-## Portrait photography
+## Portrait Photography
 
 - by David LaChapelle
 - by Alessio Albi
@@ -99,5 +102,7 @@
 - by John Kacere
 - by Lisa Yuskavage
 - by Albert Aublet
-- by Peter Goodhall
-- by Boro Ivetic
+- by Igor Shulman
+- by Anders Zorn
+- by Tamara Lempicka
+- by Lucien Freud

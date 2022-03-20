@@ -35,6 +35,8 @@
 - fauvism
 - erotic art
 - nude
+- wallpaper art
+- skyrim nature art
 
 ## Others
 

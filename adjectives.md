@@ -15,3 +15,9 @@
 - disappeared
 - moody
 - demonic
+- murky
+- beautiful
+- mysterious
+- hidden
+- cursed
+- dreamy
