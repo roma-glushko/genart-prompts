@@ -36,6 +36,9 @@
 - a siberian cat
 - a tabby cat
 - a tom cat
+- a leopard
+- a lion
+- a lynx
 
 ### Birds
 
@@ -51,16 +54,111 @@
 - a penguin
 - a pigeon
 - a puffin
+- an albatross
+- a avocet
+- a budgie
+- a canary
+- a chick
+- a chickadee
+- a chicken
+- a cockatiel
+- a cockatoo
+- a coot
+- a covey
+- a crow
+- a cuckoo
+- a fowl
+- a goldfinch
+- a goose
+- a grouse
+- a hawk
+- a heron
+- a jackdaw
+- a jay
+- a kestrel
+- a lark
+- a loon
+- a macaw
+- a magpie
+- a martin
+- an osprey
+- an ostrich
+- an owl
+- a parakeet
+- a quail
+- a quetzal
+- a raven
+- a razorbill
+- a rook
+- a shrike
+- a skylark
+- a snipe
+- a sparrow
+- a starling
+- a stork
+- a swallow
+- a swift
+- a tanager
+- a thrush
+- a toucan
+- a turkey
+- a vulture
+- a warbler
 
 ### Lizards, Snakes
 
+- a cobra
 - a crocodile
+- a komodo
+- a mamba
 - a python
 - a salamander
 - a snake
-- a cobra
+- a viper
 
-## Vehicle
+### Fish
+
+- blowfish
+- marlin
+- amberjack
+- anchovy
+- angler
+- ayu
+- barbel
+- barracuda
+- bass
+- betta
+- bocaccio
+- burbot
+- carp
+- cobbler
+- cod
+- flounder
+- grouper
+- haddock
+- halibut
+- herring
+- mackerel
+- marlin
+- mullet
+- perch
+- pollock
+- salmon
+- sardine
+- scallop
+- shark
+- snapper
+- sole
+- tilapia
+- trout
+- tuna
+
+
+### Primates
+
+- a mandrill
+
+## Vehicles
 
 - a car
 - a jeep
@@ -71,6 +169,17 @@
 - a minivan
 - a roadster
 - a sedan
+- a convertible
+- a coupe
+- a dragster
+- a hatchback
+- a hearse
+- a hotrod
+- a humvee
+- a hybrid
+- a landaulet
+- a limo
+- a limousine
 
 ## Light
 
@@ -145,6 +254,7 @@
 
 - a nuclear explosion
 - a tank
+- a turret
 
 ## Mythology
 
@@ -190,13 +300,8 @@
 - a fossa
 - a fox
 - a jackal
-- a komodo
-- a leopard
-- a lion
-- a lynx
-- a mamba
-- a mandrill
-- a marlin
+
+
 
 - anaxelotol
 - anocelot
@@ -206,7 +311,6 @@
 - a serval
 - a shark
 - a skua
-- a viper
 - anarcade
 - a arch
 - anarchway
@@ -223,76 +327,17 @@
 - a roundel
 - a spire
 - a truss
-- a turret
 - dust
-- a convertible
-- a coupe
-- a dragster
-- a hatchback
-- a hearse
-- a hotrod
-- a humvee
-- a hybrid
-- a landaulet
 - a landscape
-- a limo
-- a limousine
+- a guitar
+- a toy
+- a workshop
+
+
 - a subcompact
 - an suv
-- an albatross
-- a avocet
-- a budgie
-- a canary
-- a workshop
-- a chick
-- a chickadee
-- a chicken
-- a cockatiel
-- a cockatoo
-- a coot
-- a covey
-- a crow
-- a cuckoo
 
-- a fowl
-- a toy
-- a goldfinch
-- a goose
-- a guitar
-- a grouse
-- a hawk
-- a heron
-- a jackdaw
-- a jay
-- a kestrel
-- a lark
-- a loon
-- a macaw
-- a magpie
-- a martin
-- a osprey
-- an ostrich
-- an owl
-- a parakeet
-- a quail
-- a quetzal
-- a raven
-- a razorbill
-- a rook
-- a shrike
-- a skylark
-- a snipe
-- a sparrow
-- a starling
-- a stork
-- a swallow
-- a swift
-- a tanager
-- a thrush
-- a toucan
-- a turkey
-- a vulture
-- a warbler
+
 - butter
 - chili
 - chives
@@ -389,39 +434,7 @@
 - terrier
 - westie
 - whippet
-- amberjack
-- anchovy
-- angler
-- ayu
-- barbel
-- barracuda
-- bass
-- betta
-- blowfish
-- bocaccio
-- burbot
-- carp
-- cobbler
-- cod
-- flounder
-- grouper
-- haddock
-- halibut
-- herring
-- mackerel
-- marlin
-- mullet
-- perch
-- pollock
-- salmon
-- sardine
-- scallop
-- shark
-- snapper
-- sole
-- tilapia
-- trout
-- tuna
+
 - aroma
 - bagel
 - batter
@@ -457,7 +470,6 @@
 - filet
 - fish
 - flour
-- foie gras
 - food
 - glaze
 - grill
