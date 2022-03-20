@@ -7,15 +7,31 @@
 - a bear
 - a boa
 - a cheetah
-- a portrait
-- a glowing neon
 - a chimpanzee
 - a civet
-- a cobra
-- a cougar
 - a coyote
-- a crocodile
 - a dingo
+- a wolf
+
+### Cats
+
+- a cougar
+
+### Birds
+
+
+
+### Lizards, Snakes
+
+- a crocodile
+- a python
+- a salamander
+- a snake
+- a cobra
+
+## Vehicle
+
+
 
 ## Light
 
@@ -34,8 +50,37 @@
 
 - a gateway
 - a temple
+- a balcony
+- a facade
+- a gallerie
+- a parapet
+- a patio
+- a pavilion
+- a pediment
+- a pergola
+- a pilaster
+- a portico
+
+## Places
+
+- a garden
+- a terrace
 
 ## Industrial
+
+## Science
+
+- an electron
+- gravity
+- a halo
+- a neutrino
+- a neutron
+- a nucleus
+- a photon
+- a pulsar
+- a quasar
+- a singularity
+- a supernova
 
 ## War
 
@@ -47,6 +92,24 @@
 - Persephone
 - an angel
 - a wolverine
+- demon
+- ghost
+- ghoul
+- phantasm
+- phantom
+- poltergeist
+- soul
+- specter
+- spirit
+- spook
+- sprite
+
+## Things
+
+- an orb
+- a corona
+- a portrait
+- a glowing neon
 
 ## Unsorted
 
@@ -56,32 +119,26 @@
 - a jaguar
 - a komodo
 - a leopard
-- a garden
 - a lion
 - a lynx
 - a mamba
 - a mandrill
 - a marlin
-- a monitor lizard
-- a snake
+
 - anaxelotol
 - anocelot
 - anosprey
 - a owl
 - a petrel
-- a python
 - a ray
-- a salamander
 - a serval
 - a shark
 - a skua
 - a tiger
 - a viper
-- a wolf
 - anarcade
 - a arch
 - anarchway
-- a balcony
 - a baluster
 - a balustrade
 - a belvedere
@@ -91,36 +148,14 @@
 - a cornice
 - a courtyard
 - a cupola
-- a facade
 - a frieze
-- a gallerie
-- a parapet
-- a patio
-- a pavilion
-- a pediment
-- a pergola
-- a pilaster
-- a portico
 - a roundel
 - a spire
-- a terrace
 - a tower
 - a truss
 - a turret
 - a veranda
-- a corona
 - dust
-- anelectron
-- gravity
-- a halo
-- a neutrino
-- a neutron
-- a nucleus
-- a photon
-- a pulsar
-- a quasar
-- a singularity
-- a supernova
 - a car
 - a convertible
 - a coupe
@@ -513,19 +548,7 @@
 - settee
 - sofa
 - stool
-- angel
 - apparition
-- demon
-- ghost
-- ghoul
-- phantasm
-- phantom
-- poltergeist
-- soul
-- specter
-- spirit
-- spook
-- sprite
 - wraith
 - alloy
 - aluminum
