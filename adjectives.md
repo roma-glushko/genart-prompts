@@ -1,4 +1,4 @@
-# Emotions
+# Adjectives
 
 - creepy
 - beautiful
