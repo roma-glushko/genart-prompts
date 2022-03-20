@@ -23,3 +23,5 @@
 - patterns
 - retrofuturistic
 - valhalla
+- 35mm analog photo of
+- propaganda poster

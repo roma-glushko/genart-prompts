@@ -1,5 +1,7 @@
 # Things
 
+## Animals
+
 - a badger
 - a barracuda
 - a bear
@@ -14,8 +16,8 @@
 - a coyote
 - a crocodile
 - a dingo
-- aneagle
 - a eel
+
 - a sunray
 - a godray
 - sunrays shine upon it
@@ -117,11 +119,14 @@
 - a taxi
 - a truck
 - a van
+- a princess
 - a wagon
 - analbatross
 - a avocet
 - a budgie
 - a canary
+- a town
+- a workshop
 - a chick
 - a chickadee
 - a chicken
@@ -733,3 +738,4 @@
 - a walnut tree
 - a prostitute
 - a ballerina
+- an angel
