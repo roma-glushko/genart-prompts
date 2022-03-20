@@ -16,10 +16,41 @@
 ### Cats
 
 - a cougar
+- a tiger
+- a jaguar
+- an angora cat
+- a balinese cat
+- a bengal cat
+- a birman cat
+- a bobtail cat
+- a bombay cat
+- a burmese cat
+- a calico cat
+- a ginger cat
+- a himalayan cat
+- a javanese cat
+- a korat
+- a longhair cat
+- a persian cat
+- a siamese cat
+- a siberian cat
+- a tabby cat
+- a tom cat
 
 ### Birds
 
-
+- a owl
+- a dove
+- a duck
+- an eagle
+- a falcon
+- a finch
+- a flamingo
+- a parrot
+- a pelican
+- a penguin
+- a pigeon
+- a puffin
 
 ### Lizards, Snakes
 
@@ -31,7 +62,15 @@
 
 ## Vehicle
 
-
+- a car
+- a jeep
+- a taxi
+- a truck
+- a van
+- a wagon
+- a minivan
+- a roadster
+- a sedan
 
 ## Light
 
@@ -45,8 +84,10 @@
 - a woman
 - a prostitute
 - a ballerina
+- a couple
+- a princess
 
-## Buildings
+## Buildings, Places
 
 - a gateway
 - a temple
@@ -60,13 +101,31 @@
 - a pergola
 - a pilaster
 - a portico
-
-## Places
-
+- a veranda
 - a garden
+- a harbor
+- a bay
 - a terrace
+- a tower
+- a town
+- a city
 
-## Industrial
+## Food
+
+
+
+## Beverage
+
+- bourbon
+- brandy
+- cognac
+- gin
+- liqueur
+- rum
+- scotch
+- tequila
+- vodka
+- whisky
 
 ## Science
 
@@ -85,6 +144,7 @@
 ## War
 
 - a nuclear explosion
+- a tank
 
 ## Mythology
 
@@ -110,13 +170,26 @@
 - a corona
 - a portrait
 - a glowing neon
+- a vinyl record player
+- a vinyl record
+- a basket
+- a beaker
+- a bin
+- a bottle
+- a bowl
+- a box
+- a briefcase
+- a bucket
+- a cabinet
+- a can
+- a canister
+- a canteen
 
 ## Unsorted
 
 - a fossa
 - a fox
 - a jackal
-- a jaguar
 - a komodo
 - a leopard
 - a lion
@@ -128,13 +201,11 @@
 - anaxelotol
 - anocelot
 - anosprey
-- a owl
 - a petrel
 - a ray
 - a serval
 - a shark
 - a skua
-- a tiger
 - a viper
 - anarcade
 - a arch
@@ -151,12 +222,9 @@
 - a frieze
 - a roundel
 - a spire
-- a tower
 - a truss
 - a turret
-- a veranda
 - dust
-- a car
 - a convertible
 - a coupe
 - a dragster
@@ -165,26 +233,16 @@
 - a hotrod
 - a humvee
 - a hybrid
-- a jeep
 - a landaulet
 - a landscape
 - a limo
 - a limousine
-- a minivan
-- a roadster
-- a sedan
 - a subcompact
-- ansuv
-- a taxi
-- a truck
-- a van
-- a princess
-- a wagon
-- analbatross
+- an suv
+- an albatross
 - a avocet
 - a budgie
 - a canary
-- a town
 - a workshop
 - a chick
 - a chickadee
@@ -195,15 +253,8 @@
 - a covey
 - a crow
 - a cuckoo
-- a dove
-- a duck
-- aneagle
-- a falcon
-- a finch
-- a flamingo
+
 - a fowl
-- a vinyl record player
-- a vinyl record
 - a toy
 - a goldfinch
 - a goose
@@ -220,14 +271,9 @@
 - a magpie
 - a martin
 - a osprey
-- anostrich
-- anowl
+- an ostrich
+- an owl
 - a parakeet
-- a parrot
-- a pelican
-- a penguin
-- a pigeon
-- a puffin
 - a quail
 - a quetzal
 - a raven
@@ -247,24 +293,6 @@
 - a turkey
 - a vulture
 - a warbler
-- anangor- a cat
-- a balinese cat
-- a bengal cat
-- a birm- ancat
-- a bobtail cat
-- a bombay cat
-- a burmese cat
-- a calico cat
-- a ginger cat
-- a himalay- ancat
-- a javanese cat
-- a korat
-- a longhair cat
-- a persi- ancat
-- a siamese cat
-- a siberi- ancat
-- a tabby cat
-- a tom cat
 - butter
 - chili
 - chives
@@ -287,24 +315,12 @@
 - sriracha
 - vinegar
 - wasabi
-- anattache
+- an attache
 - a backpack
 - a bag
 - baggage
 - a barrel
 - a basin
-- a basket
-- a beaker
-- a bin
-- a bottle
-- a bowl
-- a box
-- a briefcase
-- a bucket
-- a cabinet
-- a can
-- a canister
-- a canteen
 - a carrier
 - a carton
 - a case
@@ -660,16 +676,6 @@
 - a weed
 - weed
 - wood
-- bourbon
-- brandy
-- cognac
-- gin
-- liqueur
-- rum
-- scotch
-- tequila
-- vodka
-- whisky
 - a basin
 - a bay
 - a bayou
