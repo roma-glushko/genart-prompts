@@ -1,4 +1,4 @@
-# Things
+# Objects
 
 ## Animals
 
@@ -16,14 +16,42 @@
 - a coyote
 - a crocodile
 - a dingo
-- a eel
+
+## Light
 
 - a sunray
 - a godray
 - sunrays shine upon it
+
+## People
+
+- a human
+- a woman
+- a prostitute
+- a ballerina
+
+## Buildings
+
+- a gateway
+- a temple
+
+## Industrial
+
+## War
+
+- a nuclear explosion
+
+## Mythology
+
+- Cthulhu
+- Persephone
+- an angel
+- a wolverine
+
+## Unsorted
+
 - a fossa
 - a fox
-- a human
 - a jackal
 - a jaguar
 - a komodo
@@ -32,8 +60,6 @@
 - a lion
 - a lynx
 - a mamba
-- a gateway
-- a nuclear explosion
 - a mandrill
 - a marlin
 - a monitor lizard
@@ -52,8 +78,6 @@
 - a tiger
 - a viper
 - a wolf
-- a wolverine
-- a woman
 - anarcade
 - a arch
 - anarchway
@@ -736,8 +760,3 @@
 - a sycamore tree
 - a teak tree
 - a walnut tree
-- a prostitute
-- a ballerina
-- an angel
-- cthulhu
-- Persephone
