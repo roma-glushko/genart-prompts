@@ -219,6 +219,8 @@
 - a town
 - a city
 - a field
+- a factory
+- a control room
 
 ## Food
 
@@ -250,6 +252,7 @@
 - a quasar
 - a singularity
 - a supernova
+- global warming
 
 ## War
 
@@ -274,6 +277,16 @@
 - spirit
 - spook
 - sprite
+- Kentaurus
+
+# Clothes
+
+- stockings
+- short dress
+- thong
+- lingerie
+- G String
+- Bikini
 
 ## Things
 
@@ -304,17 +317,17 @@
 
 
 
-- anaxelotol
-- anocelot
-- anosprey
+- an axelotol
+- an ocelot
+- an osprey
 - a petrel
 - a ray
 - a serval
 - a shark
 - a skua
-- anarcade
+- an arcade
 - a arch
-- anarchway
+- an archway
 - a baluster
 - a balustrade
 - a belvedere
@@ -333,12 +346,8 @@
 - a guitar
 - a toy
 - a workshop
-
-
 - a subcompact
 - an suv
-
-
 - butter
 - chili
 - chives
