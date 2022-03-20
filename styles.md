@@ -63,3 +63,26 @@
 - valhalla
 - 35mm analog photo of
 - propaganda poster
+- drone view
+- from the sky
+- synthwave style
+- Flickr
+- DSLR
+- volumetric lighting
+- parallax
+- astral projection
+- alstroemeria
+- bokeh
+- matte background
+- tilt shift
+- dye-transfer
+- film noir
+- 8K 3D
+- 8k resolution
+- ambient occlusion
+- detailed painting
+- glowing neon
+- geometric
+- flickering light
+- in spring/winter/autumn/summer
+- 4k portrait
