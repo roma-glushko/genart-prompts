@@ -14,3 +14,4 @@
 - obscure
 - disappeared
 - moody
+- demonic

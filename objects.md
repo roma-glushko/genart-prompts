@@ -739,3 +739,5 @@
 - a prostitute
 - a ballerina
 - an angel
+- cthulhu
+- Persephone
