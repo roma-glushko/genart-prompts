@@ -39,6 +39,35 @@
 - a leopard
 - a lion
 - a lynx
+- an ocelot
+- a serval
+
+### Dogs
+
+- a beagle
+- a borzoi
+- a boxer dog
+- a collie dog
+- a corgie
+- a dachshund
+- a dingo
+- a feist
+- a harrier dog
+- a hound
+- a huskyd dog
+- a maltese
+- pinscher
+- poodle
+- pug
+- retriever
+- rottweiler
+- schnauser
+- setter
+- spaniel
+- spitz
+- terrier
+- westie
+- whippet
 
 ### Birds
 
@@ -85,12 +114,14 @@
 - an ostrich
 - an owl
 - a parakeet
+- a petrel
 - a quail
 - a quetzal
 - a raven
 - a razorbill
 - a rook
 - a shrike
+- a skua
 - a skylark
 - a snipe
 - a sparrow
@@ -221,23 +252,230 @@
 - a field
 - a factory
 - a control room
+- an arcade
+- a arch
+- an archway
+- a baluster
+- a balustrade
+- a belvedere
+- a brace
+- a colonnade
+- a column
+- a cornice
+- a courtyard
+- a cupola
+- a frieze
+- kitchen
+
 
 ## Food
 
-
+- butter
+- chili
+- chives
+- chutney
+- garlic
+- honey
+- horseradish
+- ketchup
+- margarine
+- mayonnaise
+- miso
+- mustard
+- oil
+- onion
+- pesto
+- relish
+- remoulade
+- salsa
+- sauerkraut
+- sriracha
+- vinegar
+- wasabi
+- aroma
+- bagel
+- batter
+- beans
+- biscuit
+- bread
+- broth
+- burger
+- butter
+- cake
+- candy
+- caramel
+- caviar
+- cheese
+- chili
+- chocolate
+- cobbler
+- cocoa
+- cookie
+- cream
+- croissant
+- crumble
+- cuisine
+- curd
+- dessert
+- dish
+- eggs
+- entree
+- filet
+- fish
+- flour
+- food
+- glaze
+- grill
+- hamburger
+- ice
+- ketchup
+- lard
+- liquor
+- margarine
+- marinade
+- mayo
+- mayonnaise
+- meat
+- milk
+- mousse
+- muffin
+- mushroom
+- noodle
+- nut
+- oil
+- olive
+- omelette
+- pan
+- pasta
+- paste
+- pastry
+- pie
+- pizza
+- plate
+- pot
+- poutine
+- pudding
+- raclette
+- recipe
+- rice
+- salad
+- salsa
+- sandwich
+- sauce
+- seasoning
+- skillet
+- soup
+- soy
+- spice
+- steak
+- stew
+- syrup
+- tartar
+- taste
+- tea
+- toast
+- vinegar
+- waffle
+- wheat
+- wok
+- yeast
+- yogurt
 
 ## Beverage
 
+- beer
 - bourbon
 - brandy
 - cognac
+- cider
+- coffee
+- drink
 - gin
+- juice
 - liqueur
 - rum
 - scotch
+- soda
 - tequila
 - vodka
+- water
 - whisky
+- wine
+
+## Fruits, vegetables
+
+- apple
+- apricot
+- avocado
+- banana
+- berry
+- cantaloupe
+- cherry
+- citron
+- citrus
+- coconut
+- date
+- fig
+- grape
+- guava
+- kiwi
+- lemon
+- lime
+- mango
+- melon
+- mulberry
+- nectarine
+- orange
+- papaya
+- peach
+- pear
+- pineapple
+- plum
+- prune
+- raisin
+- raspberry
+- tangerine
+
+# Wine, grape
+
+- albariño
+- amarone
+- arneis
+- auslese
+- banylus
+- barbaresco
+- bardolino
+- barolo
+- beaujolais
+- blanc
+- burgundy
+- cabernet
+- chablis
+- champagne
+- chardonnay
+- chianti
+- chinon
+- claret
+- dolcetto
+- grappa
+- lambrusco
+- madeira
+- malbec
+- marsanne
+- mead
+- merlot
+- moscato
+- muscat
+- noir
+- pinot
+- port
+- prosecco
+- rosé
+- riesling
+- sauvignon
+- sherry
+- shiraz
+- zinfandel
 
 ## Science
 
@@ -279,7 +517,7 @@
 - sprite
 - Kentaurus
 
-# Clothes
+## Clothes
 
 - stockings
 - short dress
@@ -287,6 +525,38 @@
 - lingerie
 - G String
 - Bikini
+
+## Instruments
+
+- bassoon
+- bell
+- bongo
+- bugle
+- celesta
+- a cello
+- a clarinet
+- a cymbal
+- a drum
+- a flute
+- a gong
+- a guitar
+- a harp
+- a horn
+- a marimba
+- anoboe
+- a piano
+- a piccolo
+- a sax
+- a snare drum
+- a tambourine
+- a timpani
+- a triangle
+- a trombone
+- a trumpet
+- a tuba
+- a viola
+- a violin
+- a xylophone
 
 ## Things
 
@@ -309,337 +579,8 @@
 - a canister
 - a canteen
 
-## Unsorted
+## Plants
 
-- a fossa
-- a fox
-- a jackal
-
-
-
-- an axelotol
-- an ocelot
-- an osprey
-- a petrel
-- a ray
-- a serval
-- a shark
-- a skua
-- an arcade
-- a arch
-- an archway
-- a baluster
-- a balustrade
-- a belvedere
-- a brace
-- a colonnade
-- a column
-- a cornice
-- a courtyard
-- a cupola
-- a frieze
-- a roundel
-- a spire
-- a truss
-- dust
-- a landscape
-- a guitar
-- a toy
-- a workshop
-- a subcompact
-- an suv
-- butter
-- chili
-- chives
-- chutney
-- garlic
-- honey
-- horseradish
-- ketchup
-- margarine
-- mayonnaise
-- miso
-- mustard
-- oil
-- onion
-- pesto
-- relish
-- remoulade
-- salsa
-- sauerkraut
-- sriracha
-- vinegar
-- wasabi
-- an attache
-- a backpack
-- a bag
-- baggage
-- a barrel
-- a basin
-- a carrier
-- a carton
-- a case
-- a cask
-- a casket
-- a chest
-- a coffer
-- a container
-- a cooler
-- a crate
-- a cube
-- a drawer
-- a drum
-- a flask
-- a folder
-- a glass
-- a holder
-- a hutch
-- a jar
-- a jug
-- a locker
-- a luggage
-- a packet
-- a pan
-- a plate
-- a pocket
-- a pod
-- a pot
-- a pouch
-- a purse
-- a rack
-- a sack
-- a satchel
-- a suitcase
-- a tin
-- a tote
-- a trunk
-- a tray
-- a tub
-- a tube
-- anurn
-- a vase
-- a vault
-- a vial
-- a beagle
-- a borzoi
-- a boxer dog
-- a collie dog
-- a corgie
-- a dachshund
-- a dingo
-- a feist
-- a harrier dog
-- a hound
-- a huskyd dog
-- a maltese
-- pinscher
-- poodle
-- pug
-- retriever
-- rottweiler
-- schnauser
-- setter
-- spaniel
-- spitz
-- terrier
-- westie
-- whippet
-
-- aroma
-- bagel
-- batter
-- beans
-- beer
-- biscuit
-- bread
-- broth
-- burger
-- butter
-- cake
-- candy
-- caramel
-- caviar
-- cheese
-- chili
-- chocolate
-- cider
-- cobbler
-- cocoa
-- coffee
-- cookie
-- cream
-- croissant
-- crumble
-- cuisine
-- curd
-- dessert
-- dish
-- drink
-- eggs
-- entree
-- filet
-- fish
-- flour
-- food
-- glaze
-- grill
-- hamburger
-- ice
-- juice
-- ketchup
-- kitchen
-- lard
-- liquor
-- margarine
-- marinade
-- mayo
-- mayonnaise
-- meat
-- milk
-- mousse
-- muffin
-- mushroom
-- noodle
-- nut
-- oil
-- olive
-- omelette
-- pan
-- pasta
-- paste
-- pastry
-- pie
-- pizza
-- plate
-- pot
-- poutine
-- pudding
-- raclette
-- recipe
-- rice
-- salad
-- salsa
-- sandwich
-- sauce
-- seasoning
-- skillet
-- soda
-- soup
-- soy
-- spice
-- steak
-- stew
-- syrup
-- tartar
-- taste
-- tea
-- toast
-- vinegar
-- waffle
-- water
-- wheat
-- wine
-- wok
-- yeast
-- yogurt
-- apple
-- apricot
-- avocado
-- banana
-- berry
-- cantaloupe
-- cherry
-- citron
-- citrus
-- coconut
-- date
-- fig
-- grape
-- guava
-- kiwi
-- lemon
-- lime
-- mango
-- melon
-- mulberry
-- nectarine
-- orange
-- papaya
-- peach
-- pear
-- pineapple
-- plum
-- prune
-- raisin
-- raspberry
-- tangerine
-- banquette
-- bench
-- chair
-- chaise
-- couch
-- futon
-- loveseat
-- ottoman
-- pouf
-- sectional
-- settee
-- sofa
-- stool
-- apparition
-- wraith
-- alloy
-- aluminum
-- brass
-- bronze
-- chrome
-- copper
-- gold
-- iron
-- lead
-- mercury
-- nickel
-- platinum
-- silver
-- steel
-- tin
-- titanium
-- tungsten
-- zinc
-- agate
-- bismuth
-- emerald
-- graphite
-- halite
-- quartz
-- bassoon
-- bell
-- bongo
-- bugle
-- celesta
-- a cello
-- a clarinet
-- a cymbal
-- a flute
-- a gong
-- a guitar
-- a harp
-- a horn
-- a marimba
-- anoboe
-- a piano
-- a piccolo
-- a sax
-- a snare drum
-- a tambourine
-- a timpani
-- a triangle
-- a trombone
-- a trumpet
-- a tuba
-- a viola
-- a violin
-- a xylophone
 - anacorn
 - alfalfa
 - bamboo
@@ -698,6 +639,144 @@
 - a weed
 - weed
 - wood
+- anacaci- a tree
+- anash tree
+- a bamboo tree
+- a beech tree
+- a birch tree
+- a cedar tree
+- a cherry tree
+- a cocobolo tree
+- a fir tree
+- a hickory tree
+- a mahogany tree
+- a maple tree
+- anoak tree
+- a pine tree
+- a poplar tree
+- a spruce tree
+- a sycamore tree
+- a teak tree
+- a walnut tree
+
+## Metals
+
+- alloy
+- aluminum
+- brass
+- bronze
+- chrome
+- copper
+- gold
+- iron
+- lead
+- mercury
+- nickel
+- platinum
+- silver
+- steel
+- tin
+- titanium
+- tungsten
+- zinc
+
+## Minerals
+
+- agate
+- bismuth
+- emerald
+- graphite
+- halite
+- quartz
+
+
+
+## Unsorted
+
+- a fossa
+- a fox
+- a jackal
+- an axelotol
+
+- a ray
+
+- a roundel
+- a spire
+- a truss
+- dust
+- a landscape
+- a guitar
+- a toy
+- a workshop
+- a subcompact
+- an suv
+
+- an attache
+- a backpack
+- a bag
+- baggage
+- a barrel
+- a basin
+- a carrier
+- a carton
+- a case
+- a cask
+- a casket
+- a chest
+- a coffer
+- a container
+- a cooler
+- a crate
+- a cube
+- a drawer
+- a flask
+- a folder
+- a glass
+- a holder
+- a hutch
+- a jar
+- a jug
+- a locker
+- a luggage
+- a packet
+- a pan
+- a plate
+- a pocket
+- a pod
+- a pot
+- a pouch
+- a purse
+- a rack
+- a sack
+- a satchel
+- a suitcase
+- a tin
+- a tote
+- a trunk
+- a tray
+- a tub
+- a tube
+- anurn
+- a vase
+- a vault
+- a vial
+
+- banquette
+- bench
+- chair
+- chaise
+- couch
+- futon
+- loveseat
+- ottoman
+- pouf
+- sectional
+- settee
+- sofa
+- stool
+- apparition
+- wraith
+
 - a basin
 - a bay
 - a bayou
@@ -754,60 +833,3 @@
 - the surf
 - a swamp
 - a tributary
-- albariño
-- amarone
-- arneis
-- auslese
-- banylus
-- barbaresco
-- bardolino
-- barolo
-- beaujolais
-- blanc
-- burgundy
-- cabernet
-- chablis
-- champagne
-- chardonnay
-- chianti
-- chinon
-- claret
-- dolcetto
-- grappa
-- lambrusco
-- madeira
-- malbec
-- marsanne
-- mead
-- merlot
-- moscato
-- muscat
-- noir
-- pinot
-- port
-- prosecco
-- rosé
-- riesling
-- sauvignon
-- sherry
-- shiraz
-- zinfandel
-- anacaci- a tree
-- anash tree
-- a bamboo tree
-- a beech tree
-- a birch tree
-- a cedar tree
-- a cherry tree
-- a cocobolo tree
-- a fir tree
-- a hickory tree
-- a mahogany tree
-- a maple tree
-- anoak tree
-- a pine tree
-- a poplar tree
-- a spruce tree
-- a sycamore tree
-- a teak tree
-- a walnut tree
