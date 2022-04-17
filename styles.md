@@ -37,6 +37,7 @@
 - nude
 - wallpaper art
 - skyrim nature art
+- symbolic and meaningful style
 
 ## Others
 
@@ -66,7 +67,6 @@
 - Raypunk
 - Rococopunk
 - Steelpunk
-- Stonepunk
 - Stonepunk
 - deviantart
 - stock photo

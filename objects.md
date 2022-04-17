@@ -253,6 +253,7 @@
 - a singularity
 - a supernova
 - global warming
+- fractals
 
 ## War
 
