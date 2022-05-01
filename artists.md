@@ -15,6 +15,19 @@
 - by Ivan Aivazovsky
 - by Henry Fuseli
 
+## Landscape And Nature
+
+- by Thomas Cole
+- by Martin Johnson Heade
+- by Albert Bierstadt
+- by Rembrandt
+- by John James Audubon
+- by John Frederick Kensett
+
+## Marine
+
+- by Winslow Homer
+
 ## Psychedelic
 
 - by Lisa Frank
@@ -32,11 +45,16 @@
 
 - by Marc Simonetti
 - by Greg Rutkowski
+- by Gustav Klimt
 
 ## Impressionism
 
 - by Van Gogh
 - by Starry Night
+- by Paul Cézanne
+- by Henri Rousseau
+- by Edgar Degas
+- by Henry Toulouse Lautrec
 
 ## Surrealism
 
@@ -46,6 +64,14 @@
 ## Realism
 
 - by Isaac Levitan
+
+## Modernism
+
+- by Georgia O'Keeffe
+
+## Futurism
+
+- by Umberto Boccioni
 
 ## Portraits
 

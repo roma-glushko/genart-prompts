@@ -4,8 +4,36 @@
 
 - tempera
 - mural
+- realism
+- outrun
+- calotype
+- camcorder effect
+- Coraline
+- holography
+- naturalism
+- figurativism
+- fisheye lens
 - renaissance painting
+- romanticism
+- american romanticism
+- neoclassicism
+- afrofuturism
+- futurism
+- avant-garde
+- high renaissance
+- Byzantine Art
+- Rococo
 - watercolor painting
+- gouache
+- retrowave
+- sketched
+- chalk art
+- street art
+- vaporwave
+- futuresynth
+- gothic art
+- infrared
+- Lovecraftian
 - art deco
 - surrealism
 - impressionism
@@ -16,7 +44,8 @@
 - acrylic art
 - airbrush art
 - art deco
-- cubist
+- cubism
+- daguerreotype
 - concept art
 - hyperrealism
 - minimalist
@@ -38,11 +67,35 @@
 - wallpaper art
 - skyrim nature art
 - symbolic and meaningful style
+- symbolism
+- modernism
+- stuckism
+- tintype
+- tonalism
 
 ## Others
 
+- Pixar
+- Interstellar
+- Myst
+- the matrix
+- Super Mario Bros.
+- Pride & Prejudice
+- Star Wars
+- Slenderman
+- Stranger Things
+- Pokémon
+- Lord of the Rings
+- Game of Thrones
+- Howl’s Moving Castle
+- Avatar The Last Airbender
+- Blade Runner 2049
+- 2001: A Space Odyssey
+- Aaahh!!! Real Monsters
+- Digimon
 - an album cover ...
 - dark academia aesthetic
+- Nosferatu
 - anime
 - Marvel Comics
 - 1979 Atari video game box art
@@ -92,9 +145,11 @@
 - DSLR
 - volumetric lighting
 - parallax
+- optical illusion
 - astral projection
 - alstroemeria
 - bokeh
+- long exposure
 - matte background
 - tilt shift
 - dye-transfer
