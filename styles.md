@@ -1,18 +1,43 @@
 # Styles
 
+## Techniques
+
+- watercolor painting
+- chalk art
+- gouache
+- sketched
+- acrylic art
+- airbrush art
+- pencil sketch
+- oil on canvas
+- pixel art
+- matte painting
+- ink wash painting
+- pastel
+- Encaustic
+- Charcoal Drawing
+- Ballpoint Pen Art
+
 ## Art
 
 - tempera
+- Fresco
+- Chiaroscuro
+- Grisaille
+- Figure Painting
 - mural
 - realism
+- Impasto
 - outrun
+- Dadaist
+- Chinese Style
+- Japanese style
+- Painterly
 - calotype
-- camcorder effect
 - Coraline
-- holography
 - naturalism
 - figurativism
-- fisheye lens
+- neon art
 - renaissance painting
 - romanticism
 - american romanticism
@@ -23,11 +48,7 @@
 - high renaissance
 - Byzantine Art
 - Rococo
-- watercolor painting
-- gouache
 - retrowave
-- sketched
-- chalk art
 - street art
 - vaporwave
 - futuresynth
@@ -38,27 +59,21 @@
 - surrealism
 - impressionism
 - expressionism
-- oil on canvas
 - cottagecore
 - abstract
-- acrylic art
-- airbrush art
 - art deco
 - cubism
 - daguerreotype
 - concept art
 - hyperrealism
 - minimalist
-- pixel art
 - woodcut
 - maximalist
 - photo illustration
-- matte painting
 - pop art
 - poster art
 - lowbrow
 - mixed media
-- pencil sketch
 - WPAP
 - glitch art
 - fauvism
@@ -72,6 +87,14 @@
 - stuckism
 - tintype
 - tonalism
+
+## Platforms
+
+- Behance HD
+- Flickr
+- Sketchfab
+- trending on Artstation
+- deviantart
 
 ## Others
 
@@ -99,8 +122,6 @@
 - anime
 - Marvel Comics
 - 1979 Atari video game box art
-- trending on Artstation
-- Behance HD
 - steampunk
 - Atompunk
 - Biopunk
@@ -121,7 +142,6 @@
 - Rococopunk
 - Steelpunk
 - Stonepunk
-- deviantart
 - stock photo
 - film
 - digital illustration
@@ -129,7 +149,6 @@
 - artwork
 - low poly
 - psychedelic
-- Sketchfab
 - storybook illustration
 - tarot card
 - industrial
@@ -141,7 +160,6 @@
 - drone view
 - from the sky
 - synthwave style
-- Flickr
 - DSLR
 - volumetric lighting
 - parallax
@@ -157,9 +175,13 @@
 - 8K 3D
 - 8k resolution
 - ambient occlusion
+- ambient light
 - detailed painting
 - glowing neon
 - geometric
+- fisheye lens
 - flickering light
 - in spring/winter/autumn/summer
 - 4k portrait
+- camcorder effect
+- holography

@@ -27,6 +27,7 @@
 ## Marine
 
 - by Winslow Homer
+- by Claude Lorrain
 
 ## Psychedelic
 
@@ -58,12 +59,15 @@
 
 ## Surrealism
 
-- by Picasso
+- by Pablo Picasso
 - by Paul Delvaux
 
 ## Realism
 
 - by Isaac Levitan
+- by Théodore Rousseau
+- by Jules Bastien-Lepage
+- by Marie Bashkirtseff
 
 ## Modernism
 
